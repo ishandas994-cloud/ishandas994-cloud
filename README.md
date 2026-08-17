@@ -29,9 +29,7 @@
 | Project | Description |
 |---|---|
 | 🏥 **Hospital Management System** | End-to-end system for managing hospital operations |
-| ⚗️ **Virtual Chemistry Lab** | Interactive web-based chemistry simulation |
 | 📱 **Social Media Application** | Full stack social platform |
-| 🌐 **Portfolio Website** | Personal developer portfolio |
 
 ---
 
